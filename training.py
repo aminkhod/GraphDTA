@@ -55,7 +55,7 @@ TRAIN_BATCH_SIZE = 512
 TEST_BATCH_SIZE = 512
 LR = 0.0005
 LOG_INTERVAL = 20
-NUM_EPOCHS = 1000
+NUM_EPOCHS = 1
 
 print('Learning rate: ', LR)
 print('Epochs: ', NUM_EPOCHS)
